@@ -1,0 +1,17 @@
+[
+  {
+    "id": "michael_office",
+    "name": "Michael's Office",
+    "building": "Dunder Mifflin Scranton HQ"
+  },
+  {
+    "id": "conference_room",
+    "name": "Conference Room",
+    "building": "Dunder Mifflin Scranton HQ"
+  },
+  {
+    "id": "bullpen",
+    "name": "Bullpen",
+    "building": "Dunder Mifflin Scranton HQ"
+  }
+]
