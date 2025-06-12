@@ -5,17 +5,7 @@
   </div>
 </template>
 
-<script setup>
+<script setup lang="ts">
 import RoomList from './components/RoomList.vue';
 </script>
 
-<style>
-body {
-  margin: 0;
-  font-family: Arial, sans-serif;
-  background: #963535;
-}
-.container {
-  padding: 2rem;
-}
-</style>
